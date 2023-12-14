@@ -1,1 +1,1 @@
-# detailPage
+# detailPage should work
